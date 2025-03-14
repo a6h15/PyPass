@@ -9,4 +9,17 @@ You can specify the number of characters ,symbols and numbers the password shoul
 
 1. clone the repo
 ```bash
-  git clone 
+  git clone https://github.com/a6h15/PyPass.git
+```
+2. Cd into the directory
+```bash
+  cd Pypass
+```
+3. Give executable perms
+```bash
+  chmod +x Pypass.py
+```
+4. Run pypass
+```bash
+  ./Pypass.py
+```
